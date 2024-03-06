@@ -1,0 +1,131 @@
+.icon{
+    border-radius: 10ex;
+    width: 10ex;
+    margin-left: 5ex;
+}
+html{
+  margin: 0%;
+}
+body{
+  margin: 0%;
+  padding: 0%;
+}
+.main {
+  height: 200px;
+  background: linear-gradient(to top right, #c6e8ff, #53c9ff, #077ceb);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  }
+.game_icon{
+    width: 10ex;
+    border-radius: 10ex;
+}
+.item_of_selected_game{
+    display: flex;
+}
+.user_info{
+   display: flex;
+   flex-direction: row-reverse;
+    justify-content: flex-end;
+    background-color:#077ceb;
+    align-items: center;
+}
+.selected_game{
+  border: solid;
+  display: flex;
+}
+.nickname{
+  border-bottom: solid;
+}
+.user_games{
+    display: flex;
+    background-color: #077ceb;
+    margin-top: 10ex;
+    margin-left: 15ex;
+    border-bottom:solid;
+    margin-right: 15ex;
+}
+.items_of_selected_game{
+    display: flex;
+    margin-left: 15ex;
+    margin-top:1ex;
+}
+.item{
+  background-color: #077ceb;
+  margin-right: 1ex;
+  width: 8ex;
+  border: solid;
+}
+.game_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1ex;
+    margin-left: 2ex;
+}
+.game_info2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1ex;
+  margin-left: 2ex;
+  border:solid;
+}
+.material-symbols-outlined{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+button{
+  position: relative;
+  border: none;
+  outline: none;
+  color:aliceblue;
+  background-color:transparent;
+  cursor: pointer;
+  font-family: 'Teko', sans-serif;
+
+}
+button:before {
+  position: absolute;
+  content: '';
+  top: -2px;
+  left: -2px;
+  height: calc(100% + 4px);
+  width: calc(100% + 4px);
+  border-radius: 5px;
+  z-index: -1;
+  opacity: 0;
+  filter: blur(5px);
+  background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+  background-size: 400%;
+  transition: opacity .3s ease-in-out;
+  animation: animate 20s linear infinite;
+}
+button:hover:before {
+  opacity: 1;
+}
+
+button:hover:active {
+  background: none;
+}
+
+button:hover:active:before {
+  filter: blur(2px);
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}

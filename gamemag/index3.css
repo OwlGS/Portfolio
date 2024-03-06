@@ -1,0 +1,64 @@
+.name_of_store {
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    background-color: #077ceb;
+    height: 10ex;
+    font-family: 'Teko', sans-serif;
+}
+.main {
+    background: linear-gradient(to top right, #c6e8ff, #53c9ff, #077ceb);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Teko', sans-serif;
+    }
+.icons{
+    height: 20ex;
+    width: 20ex;
+}
+.register_zone{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 5ex;
+}
+.mail_zone{
+    margin-top: 2ex;
+    border: aliceblue solid;
+    width: auto;
+    display: flex;
+    border-radius: 1ex;
+}
+input{
+    border: none;
+}
+h1{
+    padding:0%;
+    margin: 0%;
+    color:aliceblue
+}
+.password_zone{
+    margin-top: 1ex;
+    border: aliceblue solid;
+    width: auto;
+    display: flex;
+    border-radius: 1ex;
+}
+button{
+  position: relative;
+  border: none;
+  outline: none;
+  color:aliceblue;
+  background-color:transparent;
+  cursor: pointer;
+  font-family: 'Teko', sans-serif;
+}
+.name{
+    font-size: 50px;
+    color:whitesmoke;
+}
