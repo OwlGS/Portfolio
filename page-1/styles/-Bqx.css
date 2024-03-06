@@ -1,0 +1,615 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 81.1rem;
+}.item--w3k {
+  width: 100%;
+  height: 54.4rem;
+  position: relative;
+}
+.item--w3k .item-1-qev {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 6.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 16.4rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .item-1-qev .property-1default-8e2 {
+  margin-right: 0.9rem;
+  width: 0.9rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #787b7e;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item--w3k .item-1-qev .property-1default-zw8 {
+  width: 0.9rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item--w3k .item-2-5Bt {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 7.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 29.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .item-2-5Bt .property-1default-zZk {
+  margin-right: 1rem;
+  width: 1.4rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #787b7e;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item--w3k .item-2-5Bt .property-1default-5r6 {
+  width: 1.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item--w3k .si-close-B8S {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 9.7rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 37.1rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .si-close-B8S .property-1default-Gfg {
+  margin-right: 0.9rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .si-close-B8S .property-1default-QWz {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL {
+  width: 38.7rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 15.8rem;
+  overflow: hidden;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.item--w3k .component-1-vVL .property-1frame-15-TEN {
+  box-sizing: border-box;
+  padding: 0.6rem 1.276rem 0.6rem 1.55rem;
+  width: 16.2rem;
+  height: 3.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #b3becd;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.item--w3k .component-1-vVL .property-1frame-15-TEN .item--w9Y {
+  margin-right: 1.8257rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #787b7e;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL .property-1frame-15-TEN .si-close-RaW {
+  margin-bottom: 0rem;
+  width: 1.0485rem;
+  height: 1.0485rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL .property-1frame-305-8zi {
+  box-sizing: border-box;
+  padding: 0.4rem 0.6rem 0.4rem 1.55rem;
+  width: 16.2rem;
+  height: 3.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: 7.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #b3becd;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.item--w3k .component-1-vVL .property-1frame-305-8zi .item--2qC {
+  margin-right: 1.15rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL .property-1frame-305-8zi .si-close-KpJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL .property-1frame-306-Se2 {
+  box-sizing: border-box;
+  padding: 0.6rem 1.276rem 0.6rem 1.55rem;
+  width: 16.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.item--w3k .component-1-vVL .property-1frame-306-Se2 .item--XvN {
+  margin-right: 1.8257rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-1-vVL .property-1frame-306-Se2 .si-close-FLa {
+  margin-bottom: 0rem;
+  width: 1.0485rem;
+  height: 1.0485rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .colors-Lcv {
+  box-sizing: border-box;
+  padding-left: 0.5rem;
+  width: 25.5rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.item--w3k .colors-Lcv .auto-group-86jg-Fzn {
+  width: 5rem;
+  flex-shrink: 0;
+}
+.item--w3k .colors-Lcv .auto-group-86jg-Fzn .rectangle-3-1DG {
+  margin-bottom: 2.55rem;
+  width: 100%;
+  height: 7.4rem;
+  background-color: #ffffff;
+}
+.item--w3k .colors-Lcv .auto-group-86jg-Fzn .si-expandmore-Yyt {
+  margin: 0rem 0rem 2.926rem 0.55rem;
+  width: 1.5rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--w3k .colors-Lcv .auto-group-86jg-Fzn .auto-group-5dzq-rza {
+  margin-left: 0.7757rem;
+  width: 4.0485rem;
+  height: 1.0485rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item--w3k .colors-Lcv .rectangle-5-CHk {
+  width: 5rem;
+  height: 7.4rem;
+  background-color: #e8ecef;
+  flex-shrink: 0;
+}
+.item--w3k .colors-Lcv .rectangle-4-wFL {
+  width: 5rem;
+  height: 7.4rem;
+  background-color: #b3becd;
+  flex-shrink: 0;
+}
+.item--w3k .colors-Lcv .rectangle-7-tRU {
+  width: 5rem;
+  height: 7.4rem;
+  background-color: #787b7e;
+  flex-shrink: 0;
+}
+.item--w3k .colors-Lcv .rectangle-6-efY {
+  width: 5rem;
+  height: 7.4rem;
+  background-color: #6e9edf;
+  flex-shrink: 0;
+}
+.item--w3k .item--c6a {
+  width: 31.8rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 0;
+  border-radius: 0.8rem;
+}
+.item--w3k .item--c6a .frame-5-YF8 {
+  box-sizing: border-box;
+  padding: 1.5rem 2.95rem 1.775rem 1.988rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #e8ecef;
+  border-radius: 0.8rem;
+}
+.item--w3k .item--c6a .frame-5-YF8 .si-alignleft-UPg {
+  margin: 0.275rem 2.538rem 0rem 0rem;
+  width: 2.925rem;
+  height: 1.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .item--c6a .frame-5-YF8 .item--zsp {
+  margin-bottom: 0.225rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 38.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 30.4rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .component-3-r9L .property-1frame-11-AQv {
+  margin-right: 2.3rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.45rem 0.4rem 3.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #b3becd;
+  border-radius: 0.8rem 0.8rem 0 0;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L .property-1frame-11-AQv .item--Gyk {
+  margin: 0rem 3.35rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #787b7e;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L .property-1frame-11-AQv .si-close-B58 {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L .property-1frame-12-h3U {
+  box-sizing: border-box;
+  padding: 0.4rem 0.45rem 0.4rem 3.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #b3becd;
+  border-radius: 0.8rem 0.8rem 0 0;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L .property-1frame-12-h3U .item--25k {
+  margin: 0rem 3.35rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #202020;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--w3k .component-3-r9L .property-1frame-12-h3U .si-close-KKk {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .si-useralt5-p1c {
+  box-sizing: border-box;
+  padding: 2rem 1.8rem 2rem 2rem;
+  width: 13rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 39.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .si-useralt5-p1c .property-1default-KDG {
+  margin-right: 2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .si-useralt5-p1c .property-1variant2-SHt {
+  width: 3.6rem;
+  height: 3.6rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-4-kZU {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 15.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 40.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .component-4-kZU .property-1rectangle-17-Tin {
+  margin-right: 6.8rem;
+  width: 2.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.item--w3k .component-4-kZU .property-1rectangle-17-Tin .rectangle-17-oGr {
+  width: 100%;
+  height: 2.2rem;
+  border: solid 0.15rem #787b7e;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.item--w3k .component-4-kZU .property-1variant3-vsG {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-5-eoG {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 15.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 48.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .component-5-eoG .property-1rectangle-18-n8n {
+  margin-right: 6.8rem;
+  width: 2.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.item--w3k .component-5-eoG .property-1rectangle-18-n8n .rectangle-17-XcA {
+  width: 100%;
+  height: 2.2rem;
+  border: solid 0.15rem #787b7e;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.item--w3k .component-5-eoG .property-1variant4-4rz {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .component-6-bM8 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 15.2rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 40.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .component-6-bM8 .property-1rectangle-19-UQv {
+  margin-right: 6.8rem;
+  width: 2.2rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.item--w3k .component-6-bM8 .property-1rectangle-19-UQv .rectangle-17-zPG {
+  width: 100%;
+  height: 2.2rem;
+  border: solid 0.15rem #787b7e;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+}
+.item--w3k .component-6-bM8 .property-1variant5-HNN {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--w3k .item-3-Mt2 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 7.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 22.9rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.item--w3k .item-3-Mt2 .property-1default-e6S {
+  margin-right: 0.5rem;
+  width: 1.4rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #787b7e;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.item--w3k .item-3-Mt2 .property-1default-w5Y {
+  width: 1.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.8333333333;
+  color: #000000;
+  font-family: Montserrat Alternates, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
